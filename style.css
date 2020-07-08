@@ -1,0 +1,104 @@
+
+#header{
+    background-color: #F0FFF0;
+}
+#header img{
+    width: 150px;
+}
+#main-nav{
+    background-color: #F0FFF0;
+}
+#header .container{
+    margin-top: 0;
+}
+#carousel-part{
+    padding-top: 80px;
+}
+.container{
+    margin-top: 50px;
+}
+.green-button-3{
+    border-radius: 42px;
+}
+.green-button{
+    border-radius: 42px;
+    width: 150px;
+    margin-bottom: 25px;
+}
+.green-button2{
+    border-radius: 42px;
+    background-color: #21B573;
+    width: 150px;
+}
+.carousel-item{
+    padding: 30px 60px;
+}
+.carousel-control-prev{
+    margin-left: -115px;
+    
+}
+.carousel-control-prev-icon{
+    margin-left: 130px;
+}
+.carousel-control-next{
+    margin-right: -115px;
+}
+.carousel-control-next-icon{
+    margin-right: 130px;;
+}
+.carousel-indicators li{
+    background-color: #21B573;
+}
+#book-section-width{
+  
+
+}
+.card{
+    border: none;
+    background-color: #F8FFFB;
+    padding: 20px 10px ;
+    border-radius: 12px;
+}
+.card:hover{
+    background-color: #fff;
+    box-shadow: 8px 10px 15px lightgray,-8px -10px 15px lightgray;
+}
+.card-footer{
+    border: none;
+    padding: 0;
+    background-color: #F8FFFB;
+    width: 99%;
+    margin: 0 auto;
+}
+.card-footer img{
+    width: 25px;
+}
+#blog .row{
+    width: 70%;
+    margin:0 auto;
+}
+#teachers{
+    margin-bottom: 60px;
+}
+#footer-top .container{
+    width: 85%;
+    margin: 0 auto;
+}
+#footer-top{
+    background-color: #2d3236;
+    padding-bottom: 45px;
+    padding-top: 20px;
+}
+.footer-nav {
+
+}
+.footer-nav ul{
+    list-style-type: none;
+    padding-left: 0;
+}
+.footer-nav ul li a{
+    color: #fff;
+}
+
+
+    
